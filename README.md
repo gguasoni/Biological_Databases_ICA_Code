@@ -1,2 +1,9 @@
-# Biological_Databases_ICA_Code
-This repository contains the scripts used for the the in-course assignment of 'Biological Databases', which I took as part of my MSc in Bioinformatics at the University of Edinburgh. More details on the scripts and the original assignment are found in the README file. 
+## Task
+The focus of this assignment was to turn a list of ten gene identifiers into a queryable MySQL annotation database for biological discovery. The code uses my database on the university server, pulls relevant information about the ten genes from at least three external databases (ideally via different query methods), stores the results locally, and presents an integrated view in table form by querying the custom database. Running the script creates the database, performs the external queries, downloads and integrates the data, and then issues a final SQL query to output a summary table of the integrated results—applying the approaches covered in the course and aiming for a design where one or two SQL queries can summarise the data.
+
+## Script Details
+- Biological_Databases_ICA.R
+  -  powers the PROTEIGNOSIA home screen: it starts a session, renders a CSS-styled form where users enter a protein family, a taxonomic group, and tick check-boxes for multiple-sequ
+
+## How I would improve this code:
+- Include a 'Help' page to guide the users on how to u
