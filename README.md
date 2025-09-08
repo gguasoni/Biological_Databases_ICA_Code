@@ -3,7 +3,7 @@ The focus of this assignment was to turn a list of ten gene identifiers into a q
 
 ## Script Details
 - Biological_Databases_ICA.R
-  -  powers the PROTEIGNOSIA home screen: it starts a session, renders a CSS-styled form where users enter a protein family, a taxonomic group, and tick check-boxes for multiple-sequ
+  -  
 
 ## How I would improve this code:
-- Include a 'Help' page to guide the users on how to u
+- 
